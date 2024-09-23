@@ -1,3 +1,5 @@
+'''Module containing data models for the database'''
+
 # server/app.py
 
 from flask import Flask
